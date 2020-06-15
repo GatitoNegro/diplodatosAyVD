@@ -11,7 +11,7 @@
 
 ## Acerca del trabajo práctico:
 
-En este trabajo se puede encontrar un análisis de la información provista en el dataset Human Freedom Index 2018 del instituto Cato. Nuestro análisis se centra en las variables relacionadas a "Identity and Relationships" en paises de Latinoamérica, y los compararemos con las estadísticas globales.
+En este trabajo se puede encontrar un análisis de la información provista en el dataset [Human Freedom Index 2018](https://www.cato.org/human-freedom-index-new) del instituto Cato. Nuestro análisis se centra en las variables relacionadas a "Identity and Relationships" en paises de Latinoamérica, y los compararemos con las estadísticas globales.
 
 ### Librerías utilizadas:
 
